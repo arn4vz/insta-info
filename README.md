@@ -4,10 +4,4 @@ this tool will help you to find the information of any Instagram account this to
 
 it is very easy to use
 
-# Commands 
-
-$ git clone https://github.com/arn4vz/insta-info/
-$ cd insta-info
-$ python info.py 
-
-if you have any issues sodium me on telegram https://telegram.me/ARN4V_18
+if you want this tool message me on telegram https://telegram.me/ARN4V_18
